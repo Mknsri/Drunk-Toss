@@ -1,4 +1,6 @@
-# Drunk-Toss
+# Drunk Toss
+[!Screenshot](http://imgur.com/MZZBZ5i "Screenshot of the game")
+
 
 Android game made using LibGdx, released under the MIT License
 https://opensource.org/licenses/MIT
